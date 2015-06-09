@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDriverScriptDB
-This repo (cDriverScriptDB) was automatically updated on 13 February 2015 21:19:19 GMT by GasGit
+This repo (cDriverScriptDB) was automatically updated on 09 June 2015 14:54:51 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDriverScriptDB
@@ -14,11 +14,11 @@ forpublishing| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|6|no|[here](libraries/cFlatten "library source")
+cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|yes|[here](libraries/cFlatten "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|6|no|[here](libraries/cFlatten "library source")
+cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|yes|[here](libraries/cFlatten "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
