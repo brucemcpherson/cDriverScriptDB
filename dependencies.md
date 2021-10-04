@@ -1,7 +1,13 @@
 # Google Apps Script Project: cDriverScriptDB
-This repo (cDriverScriptDB) was automatically updated on 31 October 2018 11:37:59 GMT by GasGit
+This repo (cDriverScriptDB) was automatically updated on 10/4/2021, 5:39:25 PM by GasGit
 
-For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
+For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
+
+For more info on cDriverScriptDB try https://ramblings.mcpher.com/?s=cDriverScriptDB or use the issues section of this repo to contact me
+## Library reference
+14BJai1S2S7393xowROUEu7IawN5hV9Sp_ry9RmhQpUcK3fh9bwz88Gn2
+
+
 ## Details for Apps Script project cDriverScriptDB
 Where possible directly referenced or sub referenced library sources have been copied to this repository, or you can include the library references shown. 
 The shared link for [cDriverScriptDB is here](https://script.google.com/d/14BJai1S2S7393xowROUEu7IawN5hV9Sp_ry9RmhQpUcK3fh9bwz88Gn2/edit?usp=sharing "open in the GAS IDE")
